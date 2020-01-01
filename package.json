@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/softspider/react-ts-storybook-storyshots"
   },
-  "homepage": "https://github.com/shisama/react-storybook-storyshots-example#readme",
+  "homepage": "https://github.com/softspider/softspiders",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-regular-svg-icons": "^5.10.2",
