@@ -17,16 +17,15 @@
   "keywords": [
     "react",
     "storybook",
-    "storyshots",
+    "storyshot",
     "jest",
     "test",
-    "example",
-    "sample"
+    "template"
   ],
-  "author": "Masashi Hirano (@shisama)",
+  "author": "AlexanderLapygin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shisama/react-storybook-storyshots-example/issues"
+    "url": "https://github.com/softspider/react-ts-storybook-storyshots"
   },
   "homepage": "https://github.com/shisama/react-storybook-storyshots-example#readme",
   "dependencies": {
