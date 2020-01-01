@@ -21,8 +21,8 @@ UNDER CONSTRUCTION
 
 ## Direct feature ancestors
 
-[typescript-test](https://github.com/softspider/typescript-test)
-[typescript](https://github.com/softspider/typescript)
+- [typescript-test](https://github.com/softspider/typescript-test)
+- [typescript](https://github.com/softspider/typescript)
 
 ---
 
