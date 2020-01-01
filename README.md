@@ -1,4 +1,4 @@
-# react-ts-storybook-snapshot-testing
+# react-ts-storybook-storyshots
 
 Minimalistic React module in TypeScript with Storybook and Storyshots
 
