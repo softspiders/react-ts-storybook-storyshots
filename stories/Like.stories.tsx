@@ -1,16 +1,16 @@
 import React from "react";
 
-import { Like } from "../src/components/Like";
+import { Hello } from "../src/components/Hello";
 
 export default {
-  title: 'Like'
+  title: 'Hello'
 };
 
-export const zero = () => <Like count={0} onClick={() => {}} />;
-export const one = () => <Like count={1} onClick={() => {}} />;
+export const zero = () => <Hello name={'Alexander'} />;
+export const one = () => <Hello name={'Anna'} />;
 zero.story = {
-  name: '0',
+  name: 'Alexander',
 };
 one.story = {
-  name: '1',
+  name: 'Anna',
 };

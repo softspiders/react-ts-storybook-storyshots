@@ -1,16 +1,13 @@
 import React from "react";
-import { Like } from "./Like";
+import { Hello } from "./Hello";
 
 type Props = {};
 
 export const App: React.FC<Props> = props => {
-  const [count, setCount] = React.useState(0);
-  const onClick = () => {
-    setCount(count + 1);
-  }
+  const [name, setName] = React.useState('Moscow');
   return (
     <div>
-      <Like {...{count, onClick}}/>
+      <Hello {...{name}}/>
     </div>
   )
 }
