@@ -7,10 +7,12 @@ UNDER CONSTRUCTION
 
 ## Feature tags
 
+- jest
 - react
 - snapshot
 - storybook
 - storyshot
+- template
 - test
 - typescript
 - ui
