@@ -2,7 +2,7 @@
   "name": "react-ts-storybook-storyshots",
   "version": "0.1.0",
   "description": "Minimalistic React module in TypeScript with Storybook and Storyshots",
-  "main": "index2.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "build": "webpack",
