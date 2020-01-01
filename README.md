@@ -10,6 +10,7 @@ UNDER CONSTRUCTION
 - react
 - snapshot
 - storybook
+- storyshot
 - test
 - typescript
 - ui
