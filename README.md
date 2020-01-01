@@ -21,6 +21,11 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 - [typescript-test](https://github.com/softspider/typescript-test)
 - [typescript](https://github.com/softspider/typescript)
 
+## Direct feature descendants
+
+[cra-ts-storybook-storyshots-lerna](https://github.com/softspider/cra-ts-storybook-storyshots-lerna)
+
+
 ---
 
 ## Requirements
