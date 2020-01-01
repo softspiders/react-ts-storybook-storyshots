@@ -25,6 +25,9 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 
 [cra-ts-storybook-storyshots-lerna](https://github.com/softspider/cra-ts-storybook-storyshots-lerna)
 
+## Direct code descendants
+
+[cra-ts-storybook-storyshots-lerna](https://github.com/softspider/cra-ts-storybook-storyshots-lerna)
 
 ---
 
