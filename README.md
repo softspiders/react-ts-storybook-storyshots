@@ -17,6 +17,16 @@ UNDER CONSTRUCTION
 - typescript
 - ui
 
+---
+
+## Direct feature ancestors
+
+[typescript-test](https://github.com/softspider/typescript-test)
+[typescript](https://github.com/softspider/typescript)
+
+---
+
+
 ## Inspired by
 
 [shisama/react-storybook-storyshots-example](https://github.com/shisama/react-storybook-storyshots-example)
