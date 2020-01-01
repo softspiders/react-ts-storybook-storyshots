@@ -1,0 +1,68 @@
+{
+  "name": "react-ts-storybook-storyshots",
+  "version": "0.1.0",
+  "description": "Minimalistic React module in TypeScript with Storybook and Storyshots",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack",
+    "start": "webpack-dev-server",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook -o public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shisama/react-storybook-storyshots-example.git"
+  },
+  "keywords": [
+    "react",
+    "storybook",
+    "storyshots",
+    "jest",
+    "test",
+    "example",
+    "sample"
+  ],
+  "author": "Masashi Hirano (@shisama)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shisama/react-storybook-storyshots-example/issues"
+  },
+  "homepage": "https://github.com/shisama/react-storybook-storyshots-example#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-regular-svg-icons": "^5.10.2",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.6.0",
+    "@storybook/addon-actions": "^5.2.0",
+    "@storybook/addon-links": "^5.2.0",
+    "@storybook/addon-storyshots": "^5.2.0",
+    "@storybook/addon-viewport": "^5.2.0",
+    "@storybook/addons": "^5.2.0",
+    "@storybook/react": "^5.2.0",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "babel-jest": "^24.9.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-require-context-hook": "^1.0.0",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "html-webpack-plugin": "^3.2.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "react-docgen-typescript-loader": "^3.2.0",
+    "react-test-renderer": "^16.9.0",
+    "ts-loader": "^6.1.0",
+    "typescript": "^3.6.3",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
+  }
+}
