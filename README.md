@@ -15,3 +15,6 @@ UNDER CONSTRUCTION
 - typescript
 - ui
 
+## Inspired by
+
+[shisama/react-storybook-storyshots-example](https://github.com/shisama/react-storybook-storyshots-example)
