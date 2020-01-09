@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # react-ts-storybook-storyshots
 
 Minimalistic React module in TypeScript with Storybook and Storyshots
@@ -16,12 +18,12 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 
 ---
 
-## Direct feature ancestors
+## Direct ancestors
 
 - [typescript-test](https://github.com/softspider/typescript-test)
 - [typescript](https://github.com/softspider/typescript)
 
-## Direct feature and code descendants
+## Direct descendants - also by code
 
 [cra-ts-uilib-storybook-storyshots-lerna](https://github.com/softspider/cra-ts-uilib-storybook-storyshots-lerna)
 
@@ -85,6 +87,8 @@ yarn storybook
 ### License
 
 Licensed under the [MIT license](./LICENSE).
+
+---
 
 
 ## Inspired by
