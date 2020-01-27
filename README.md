@@ -20,12 +20,12 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 
 ## Direct ancestors
 
-- [typescript-test](https://github.com/softspider/typescript-test)
-- [typescript](https://github.com/softspider/typescript)
+- [typescript-test](https://github.com/softspiders/typescript-test)
+- [typescript](https://github.com/softspiders/typescript)
 
 ## Direct descendants - also by code
 
-[cra-ts-uilib-storybook-storyshots-lerna](https://github.com/softspider/cra-ts-uilib-storybook-storyshots-lerna)
+[cra-ts-uilib-storybook-storyshots-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna)
 
 ---
 
