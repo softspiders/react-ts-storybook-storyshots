@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # react-ts-storybook-storyshots
 
@@ -9,6 +9,7 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 - jest
 - react
 - snapshot
+- starter
 - storybook
 - storyshot
 - template
